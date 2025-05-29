@@ -1,1 +1,0 @@
-.datasets/CM2G63L/ulm/INPUT/cnsco2_660_630700.nc

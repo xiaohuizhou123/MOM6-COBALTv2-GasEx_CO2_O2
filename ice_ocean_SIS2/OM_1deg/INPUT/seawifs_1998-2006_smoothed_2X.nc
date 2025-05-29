@@ -1,1 +1,0 @@
-.datasets/OM_1deg/INPUT/seawifs_1998-2006_smoothed_2X.nc

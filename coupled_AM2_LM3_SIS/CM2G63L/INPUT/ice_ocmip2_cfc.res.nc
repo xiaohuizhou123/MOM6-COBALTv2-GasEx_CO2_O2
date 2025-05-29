@@ -1,1 +1,0 @@
-.datasets/CM2G63L/tikal/INPUT/ice_ocmip2_cfc.res.nc

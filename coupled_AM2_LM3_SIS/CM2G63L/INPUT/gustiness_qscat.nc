@@ -1,1 +1,0 @@
-.datasets/CM2G63L/tikal/INPUT/gustiness_qscat.nc

@@ -1,1 +1,0 @@
-../../../ocean_only/global_ALE/z/INPUT/Layer_coord50.nc

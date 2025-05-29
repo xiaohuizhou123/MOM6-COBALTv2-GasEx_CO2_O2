@@ -1,1 +1,0 @@
-.datasets/Baltic_OM4_025/atmos_mosaic_tile1Xocean_mosaic_tile1.nc

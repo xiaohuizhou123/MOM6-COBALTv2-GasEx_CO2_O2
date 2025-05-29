@@ -1,1 +1,0 @@
-.datasets/CM2G63L/tikal/mosaic.unpacked/land_mosaic.nc
