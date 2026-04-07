@@ -15,7 +15,7 @@
 	url = git@github.com:paridhirustogi10/icebergs.git
 [submodule "src/coupler"]
 	path = src/coupler
-	url = git@github.com:paridhirustogi10/Coupler.git
+	url = git@github.com:xiaohuizhou123/Coupler.git
 [submodule "src/atmos_null"]
 	path = src/atmos_null
 	url = git@github.com:paridhirustogi10/atmos_null.git
