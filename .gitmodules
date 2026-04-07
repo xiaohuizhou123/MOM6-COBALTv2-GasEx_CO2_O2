@@ -3,7 +3,7 @@
 	url = https://github.com/paridhirustogi10/MOM6.git
 [submodule "src/SIS2"]
 	path = src/SIS2
-	url = git@github.com:paridhirustogi10/SIS2.git
+	url = git@github.com:xiaohuizhou123/SIS2.git
 [submodule "tools/matlab/gtools"]
 	path = tools/matlab/gtools
 	url = https://github.com/Adcroft/gtools.git
@@ -12,13 +12,13 @@
 	url = https://github.com/mjharriso/MIDAS.git
 [submodule "src/icebergs"]
 	path = src/icebergs
-	url = git@github.com:paridhirustogi10/icebergs.git
+	url = git@github.com:xiaohuizhou123/icebergs.git
 [submodule "src/coupler"]
 	path = src/coupler
 	url = git@github.com:xiaohuizhou123/Coupler.git
 [submodule "src/atmos_null"]
 	path = src/atmos_null
-	url = git@github.com:paridhirustogi10/atmos_null.git
+	url = git@github.com:xiaohuizhou123/atmos_null.git
 [submodule "src/land_null"]
 	path = src/land_null
 	url = https://github.com/NOAA-GFDL/land_null.git
